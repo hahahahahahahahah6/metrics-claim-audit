@@ -1,0 +1,1 @@
+exposes Prometheus metrics
